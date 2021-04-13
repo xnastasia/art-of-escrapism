@@ -54,7 +54,7 @@ runway ML
 - stylegans
 - text processing
 - utility of different models 
-- asya put more specific models in here to discuss
+- asya put more specific [Runway models](https://app.runwayml.com/models) in here to discuss
 
 #### 13:30 – 13:45
 
@@ -63,7 +63,7 @@ more bash
 
 #### 13:45 – 14:00
 
-Hangout
+hanging out
 
 ### Stray Links
 
