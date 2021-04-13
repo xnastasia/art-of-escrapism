@@ -2,9 +2,9 @@
 ### Data generation for Generation Data
 
 
-**Instructor:** [Anastasia Davydova Lewis](http://xnast.asia) | [xnastasia](https://t.me/xnastasia) on Telegram 
-**Location:** [Situated Intelligence](https://phi.ca/en/antenna/situated-intelligence-approches-ethiques-de-lia/) | Online  
-**Time:** April 20, 2021 12PM PDT  
+**Instructor:** [Anastasia Davydova Lewis](http://xnast.asia) | [xnastasia](https://t.me/xnastasia) on Telegram
+**Location:** [Situated Intelligence](https://phi.ca/en/antenna/situated-intelligence-approches-ethiques-de-lia/) | Online
+**Time:** April 20, 2021 12PM PDT
 **Voice Notes:** [link tk](https://)
 **Tools:** bash, [RunwayML](https://runwayml.com/), “Scrapism”[Scrapism](https://scrapism.lav.io/).
 
