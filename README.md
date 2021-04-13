@@ -1,14 +1,23 @@
-# Scrapism
+# The Art of E-Scrapism
+### Data generation for Generation Data
 
-(draft syllabus)
 
-**Instructor:** [Sam Lavigne](http://lav.io) | [splavigne@gmail.com](mailto:splavigne@gmail.com)  
-**Teaching Assistant:** TBD  
-**Track:** Code Poetry, Fall 2018  
-**Location:** [School for Poetic Computation](http://sfpc.io/) | 155 Bank St, New York, NY 10014  
-**Time:** Tuesdays 10am to 1pm  
-**Office Hours:** Tuesdays 2pm to 4pm (or by appointment)  
-**Class Notes:** [link](https://paper.dropbox.com/folder/show/Class-Notes-e.1gg8YzoPEhbTkrhvQwJ2zz3XJBcZkbceseDnY854qf9k5dPQtUC2)
+**Instructor:** [Anastasia Davydova Lewis](http://xnast.asia) | [xnastasia](https://t.me/xnastasia) on Telegram 
+**Location:** [Situated Intelligence](https://phi.ca/en/antenna/situated-intelligence-approches-ethiques-de-lia/) | Online  
+**Time:** April 20, 2021 12PM PDT  
+**Voice Notes:** [link tk](https://)
+**Tools:** bash, [RunwayML](https://runwayml.com/), “Scrapism”[Scrapism](https://scrapism.lav.io/).
+
+
+
+
+Most approaches to teaching machine learning focus on specific models and methodologies. While we are constantly discovering new techniques, one thing remains consistent: the quality of a model’s predictions is always going to depend on the quality of its dataset.
+
+In this workshop, we will design and curate a dataset, and preview what an ML model that you can build yourself would look like. 
+
+
+# Don't look past this headline
+
 
 Scrapism is the artistic practice of web scraping, or of automatically collecting and transforming found digital material. It hinges upon a combination of curatorial practice, reverse engineering, and hoarding mentality. In this class students will learn how to scrape massive quantities of material from the internet with Python, and then use that material to make poetic, satirical, critical, political projects. Each session we will cover a different web scraping technique, with production assignments relating to text, image and video. We will explore surrealist, dadaist, situationist techniques such as detournement, collage, and cut-ups, and apply them to a contemporary digital context.
 
