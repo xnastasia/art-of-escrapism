@@ -44,24 +44,21 @@ bash tutorial [sam lavigne's command line intro](https://scrapism.lav.io/intro-t
 
 ###### Assignment: Dataset Creation
 
-– What sort of data do you have? Notes, photos, videos, receipts, spreadsheets
-– Find data
-– Label it
+- What sort of data do you have? Notes, photos, videos, receipts, spreadsheets
+- Find data vs Create data
+- Label it
 
 
 #### 13:00 – 13:15
 
 more bash
-- process dataset
-- 
 
 #### 13:15 – 13:30
 
-runway ML
+- [Runway models](https://app.runwayml.com/models)
 - stylegans
 - text processing
 - utility of different models 
-- asya put more specific [Runway models](https://app.runwayml.com/models) in here to discuss
 
 #### 13:30 – 13:45
 
