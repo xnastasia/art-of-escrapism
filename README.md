@@ -22,7 +22,7 @@ introductions
 
 #### 12:15 – 12:30
 
-overview: mini lecture [slide deck](https://github.com/xnastasia/art-of-escrapism)
+overview: mini lecture [slide deck](https://docs.google.com/presentation/d/14OkRx99_WP_iOqLS9OmwuKDLwVtIq4q5XPSWms_assA/edit?usp=sharing)
 - permanence of bias challenge
 - what is bias
 - what is scrapism
@@ -35,7 +35,7 @@ overview: mini lecture [slide deck](https://github.com/xnastasia/art-of-escrapis
 
 #### 12:30 – 12:45
 
-bash tutorial
+bash tutorial [sam lavigne's command line intro](https://scrapism.lav.io/intro-to-the-command-line/)
 - make a folder
 - navigation
 - now we need stuff to put in the folder
@@ -43,6 +43,11 @@ bash tutorial
 #### 12:45 – 13:00
 
 ###### Assignment: Dataset Creation
+
+– What sort of data do you have? Notes, photos, videos, receipts, spreadsheets
+– Find data
+– Label it
+
 
 #### 13:00 – 13:15
 
