@@ -51,7 +51,9 @@ bash tutorial [sam lavigne's command line intro](https://scrapism.lav.io/intro-t
 
 #### 13:00 – 13:15
 
-more bash
+manipulating data and labels
+resizing 
+renaming
 
 #### 13:15 – 13:30
 
